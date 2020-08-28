@@ -1,4 +1,4 @@
-# LiveLocationTracker1
+# LiveLocationTracker
 
 A new Flutter project.
 
