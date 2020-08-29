@@ -1,6 +1,7 @@
 # Live Location Tracker
 
 This is a Flutter project with minimal features for tracking live location on iOS and Android.
+
 - App settings ready for iOS, for now. Will be ready with Android settings in a bit.
 - *Screen-1* consists of only two buttons
   - `Share live location` : Tap this button to start sending your device location data to (Firebase) server. The app continues to send data while the app is active. Closing the app or any activity that stops the app from being active, stops the app from sending the data. You would need to tap the button again to restart sending data.
@@ -9,16 +10,3 @@ This is a Flutter project with minimal features for tracking live location on iO
 - Again, this is just a minimalist effort to show the scope of development collaboration with the minimum set of features required.
 
 Cheers!
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
