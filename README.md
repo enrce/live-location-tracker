@@ -10,3 +10,5 @@ This is a Flutter project with minimal features for tracking live location on iO
 - Again, this is just a minimalist effort to show the scope of development collaboration with the minimum set of features required.
 
 Cheers!
+
+![App - screen 1](./screen-1.png) ![App - screen 2](./screen-2.png)
